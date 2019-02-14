@@ -18,6 +18,9 @@ int main()
     char retour_utilisateur;
     int Quitter=1;
 
+    printf("asdadad");
+
+
     //boucle while pour choisir un ‚l‚ment du menu
     while(Quitter){
         afficherMenu();
