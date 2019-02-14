@@ -19,6 +19,7 @@ int main()
     int Quitter=1;
 
     printf("asdadad");
+    printf("sa marche ou pas");
 
 
     //boucle while pour choisir un ‚l‚ment du menu
