@@ -20,6 +20,7 @@ int main()
 
     printf("asdadad");
     printf("sa marche ou pas");
+    printf("sdadasdasdadadasdasd");
 
 
     //boucle while pour choisir un ‚l‚ment du menu
